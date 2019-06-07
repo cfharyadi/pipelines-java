@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/FerryHaryadi/first%20pipelines%20java/_apis/build/status/cfharyadi.pipelines-java?branchName=master)](https://dev.azure.com/FerryHaryadi/first%20pipelines%20java/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
